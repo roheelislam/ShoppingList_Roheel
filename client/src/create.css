@@ -1,0 +1,43 @@
+/* .form {
+  margin: auto auto;
+  width: 400px;
+} */
+
+.form input {
+  width: 1110px;
+  padding: 5px;
+  margin: 0px 405px;
+
+}
+
+/* .form textarea {
+  width: 100%;
+  padding: 5px;
+} */
+
+.form [type="submit"] {
+  width: 100px;
+  padding: 10px;
+  margin: 0px 405px;
+}
+
+.title h5 {
+  margin: 0px 405px;
+  font-weight: bold;
+}
+
+
+.container h5 {
+  font-weight: bold;
+}
+
+
+
+
+.button button {
+  width: 100px;
+  height: 50px;
+}
+
+
+

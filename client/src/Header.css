@@ -1,0 +1,41 @@
+.Header {
+  background: #666666;
+  padding: 5px;
+  display: flex;
+}
+
+.Search {
+  width: 100%;
+  border: none;
+  outline: none;
+  border-radius: 3 px;
+  background-color: #fff;
+  font-size: 1rem;
+  padding: 4px;
+  color: black;
+  opacity: 0.8;
+}
+.Search::placeholder {
+  color: grey;
+}
+.Nav {
+  width: 225px;
+  font-size: large;
+}
+
+.Logo {
+  width: 140px;
+  height: 40px;
+  /* border-radius: 50%; */
+}
+
+.Spacer {
+  flex: 1;
+}
+
+.Link {
+  margin: auto 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}

@@ -1,0 +1,31 @@
+.login_input {
+  outline: none;
+  border: none;
+  border-bottom: 2px solid teal;
+  padding: 1px;
+}
+.login_input::placeholder {
+  color: rgba(0 0 0 / 32);
+}
+.create {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.GoogleLogin {
+  text-align: center;
+}
+
+.line {
+  height: 2px;
+  width: 50%;
+  background-color: #e0e0e0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.my23 {
+  padding-bottom: 30px;
+}

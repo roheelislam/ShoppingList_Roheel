@@ -1,0 +1,71 @@
+.TagCloud{
+cursor: pointer; 
+}
+
+
+
+
+
+
+/* .table {
+    margin-top: 0px;
+    text-align: left;
+    border-bottom: 1px solid #d9d9d9;
+    padding-bottom: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table > ul.titles {
+    margin-top: 40px;
+    display: block;
+    list-style: none;    
+}
+
+.table > ul.titles > li {
+    padding-left: 10px;
+    border-left: 3px solid #21c0c0;
+    margin-top: 45px;
+} */
+
+
+
+
+/* 
+.table {
+    text-align: center;
+    justify-content: center;
+    align-items: center;  
+    align-content: center;
+    font-family: arial, sans-serif;
+    padding-left: 600px;
+    padding-right: 600px;
+    display: flex;
+  }
+  
+  .titles {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 70%;
+  }
+  
+  .titles td, .titles th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .titles tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .titles tr:hover {background-color: #ddd;}
+  
+  .titles th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+  } */
