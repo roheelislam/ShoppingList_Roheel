@@ -57,7 +57,7 @@ class Editor extends React.Component {
       })
         .then(() => {
           console.log("Hello");
-          alert(title + " have been addsssed!");
+          alert(title + " have been added!");
         })
         .catch((ex) => {
           console.log(ex);
